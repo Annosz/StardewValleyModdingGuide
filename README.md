@@ -8,6 +8,19 @@ This guide is ment to be a help for those, who are not really technically savy o
 
 ## How to use this guide
 
+This guide's greatest advantage is that it's written by me.
+
+Also, this guide's greatest weaknes is that its written by *me*.
+
+This means, that this guide - even if it tries to be a comprehensive, objective guide - will contain some of my opinion about the mods mentioned. I will feature very few mod as mandatory (mainly in the *Before you start modding* section, which are really **mandatory**), so you don't have to worry that I will change your game experience in a way you don't want to. However, I will tag a lot of mods as **not recommended**, because they are simply unbalanced or ruin the immersion (for me). When I say you should not install a mod, I will always mark my reason too, and you are free to second-guess it.
+
+A few other things you should keep in mind while you read this guide:
+- I mainly wrote this guide with the intention to help my friends, who play the game but are not *expert* modders. This means I try to give exact instructions on how to install the mods, how to use the tools and how to check for errors. If you are more experienced, maybe you will read a lot of boring information (mainly because Stardew Valley is generally easy to mod).
+- This mod list is **not complete**. You will always found other mods on the internet, and you are free to go and look for anything that satisfies your special interest. I tipically do not feature mods, that are targeted for a very small audience(?), such as the mod that [lets you ride Chocobos](https://www.nexusmods.com/stardewvalley/mods/2613 "Chokobomod") from Final Fantasy, or the one that replaces every marriable male character to [girls with huge breasts](https://www.nexusmods.com/stardewvalley/mods/474 "StardewValley_Girl-byAdarin"). You have to search for theese yourself.
+- No guide can always be completely up-to-date. To help this, I will talk a lot in the section *Finishing up* about typical errors, messages and their solutions, hoping, that when the game updates or the mods change version you will still be able to fix the majority of problems alone.
+
+## Resources
+
 # Before you start modding
 
 # Installing the mods
