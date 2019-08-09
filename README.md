@@ -23,6 +23,10 @@ A few other things you should keep in mind while you read this guide:
 
 # Before you start modding
 
+To install mods, you first need to make some preparations. In the whole guide these will be the only steps, that are mandatory (at least the first two), so let's not waste time.
+
+**SMAPI** (Stardew Modding API) is the main foundation we have to build on. This is the API (Application Programming Interface) that let's modders to change the game, and write extensions to it - which means basically *every* mod needs it.
+
 # Installing the mods
 
 # Finishing up
