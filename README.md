@@ -18,6 +18,7 @@ A few other things you should keep in mind while you read this guide:
 - I mainly wrote this guide with the intention to help my friends, who play the game but are not *expert* modders. This means I try to give exact instructions on how to install the mods, how to use the tools and how to check for errors. If you are more experienced, maybe you will read a lot of boring information (mainly because Stardew Valley is generally easy to mod).
 - This mod list is **not complete**. You will always found other mods on the internet, and you are free to go and look for anything that satisfies your special interest. I tipically do not feature mods, that are targeted for a very small audience(?), such as the mod that [lets you ride Chocobos](https://www.nexusmods.com/stardewvalley/mods/2613 "Chokobomod") from Final Fantasy, or the one that replaces every marriable male character to [girls with huge breasts](https://www.nexusmods.com/stardewvalley/mods/474 "StardewValley_Girl-byAdarin"). You have to search for theese yourself.
 - No guide can always be completely up-to-date. To help this, I will talk a lot in the section *Finishing up* about typical errors, messages and their solutions, hoping, that when the game updates or the mods change version you will still be able to fix the majority of problems alone.
+- At many places you will be presented with a collection of mods which are not compatible with each other. In these cases, you will have to make a decision which one yo want to install - it only depends on your taste.
 
 ## Resources
 
