@@ -27,18 +27,21 @@ A few other things you should keep in mind while you read this guide:
 To install mods, you first need to make some preparations. In the whole guide these will be the only steps, that are mandatory (or at least SMAPI and Content Patcher), and you have to make these **before installing any other mods**.
 
 ### SMAPI
-**SMAPI** (Stardew Modding API) is the main foundation we have to build on. This is the API (Application Programming Interface) that let's modders to change the game, and write extensions to it - which means basically *every* mod needs it. It also provides update checks and compatibility checks between mods: you will see warnings when you start the game which let you know that you have to download the latest version of a mod. It also provides error check, so a misfuncioning mod won't crash your whole game or corrupt you save if you load it with SMAPI - so yeah, it is pretty important.
+**SMAPI (Stardew Modding API)** is the main foundation we have to build on. This is the API (Application Programming Interface) that let's modders to change the game, and write extensions to it - which means basically *every* mod needs it. It also provides update checks and compatibility checks between mods: you will see warnings when you start the game which let you know that you have to download the latest version of a mod. It also provides error check, so a misfuncioning mod won't crash your whole game or corrupt you save if you load it with SMAPI - so yeah, it is pretty important.
 
 There are a lot of places where you can download SMAPI, but I suggest [smapi.io](https://smapi.io/), where you will always find the latest version. I don't want to give detailed information about installing it (although this will probaby be the hardest thing to install in the guide), because there are a lot of resources for it: I suggest to follow the SMAPI install guide on Stardew Valley Wiki, which has instructions fow [Windows](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows "Modding:Installing SMAPI on Windows") (there is even an [unofficial video guide](https://www.youtube.com/watch?v=9ULXeC9CL0c "How to Install SMAPI + Mods for Stardew Valley (PC)") from MollyPop
 ), [Mac](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac "Modding:Installing SMAPI on Mac") and [Linux](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Linux "Modding:Installing SMAPI on Linux") too.
 
 It is important to install SMAPI correctly: if you use the Steam version of the game, modify the launch options like written in the guide, otherwise you will not be able to earn achievements.
 
-### Stardew Valley ModManager
+### ~~StarDew Valley ModManager~~
+**StarDew Valley Mod Manager (SDVMM)** was a very useful tool when it was regularly updated. I mainly feature it here to warn everyone that today it throws errors for almost anything, so it's not worth downloading. It's main features (updating SMAPI, mods, enabling and disabling them, launching the game) can be all done with other (or without) tools.
+
+The ModManager was originally available on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/21?tab=posts "StarDev Valley ModManager"), where an installation guide video is available, and you could download the latest version from the [Github page] (https://github.com/yuukiw/StardewValleyMM/releases "StarDev Valley ModManager"), but again, I don't recommend it.
 
 ### Content Patcher
 
-In the *How to install the mods* section I'm going to talk more about the two types of mods. What you need to know is that in the old times, to install mods, you had to edit game files - for every mod, there was a different file in a different location, with the risk of corrupting your whole game. This is what changed with **Content Cacker**: it makes it possible to install Mods by simply copying them to a folder, checking for updates or removing them without editing the game files.
+In the *How to install the mods* section I'm going to talk more about the two types of mods. What you need to know is that in the old times, to install mods, you had to edit game files - for every mod, there was a different file in a different location, with the risk of corrupting your whole game. This is what changed with **Content Patcher**: it makes it possible to install Mods by simply copying them to a folder, checking for updates or removing them without editing the game files.
 
 You have to install [Content Packer](https://www.nexusmods.com/stardewvalley/mods/1915) **after SMAPI**, similary to installing any mods: extracting it to the mods folder (discussed in the *How to install the mods* section).
 
