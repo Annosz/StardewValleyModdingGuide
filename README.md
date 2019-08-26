@@ -40,6 +40,10 @@ There are a lot of places where you can download SMAPI, but I suggest [smapi.io]
 
 It is important to install SMAPI correctly: if you use the Steam version of the game, modify the launch options like written in the guide, otherwise you will not be able to earn achievements.
 
+There are also two mods that are instantly included in SMAPI, and can be quite helpful:
+- :heart: SaveBackup
+- :heart: ConsoleCommands
+
 ### :broken_heart:~~StarDew Valley ModManager~~
 **StarDew Valley Mod Manager (SDVMM)** was a very useful tool when it was regularly updated. I mainly feature it here to warn everyone that today it throws errors for almost anything, so it's not worth downloading. It's main features (updating SMAPI, mods, enabling and disabling them, launching the game) can be all done with other (or without) tools.
 
