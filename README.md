@@ -54,9 +54,13 @@ You have to install [Content Packer](https://www.nexusmods.com/stardewvalley/mod
 
 ## 1. Graphic mods
 - [Eemie's Seasonal Victorian Buildings - Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3691): New Vistorian buildings, if you are into this stuff (you are playing Stardew Valley, so I guess you must be into beautiful stuff). Use this Content Patcher version instead of any old one you find.
-- [Obelisk Overhaul Inspired By Eemi Seasonal Victorian](https://www.nexusmods.com/stardewvalley/mods/3198): Replaces the obelisks to match the previously installed victorian mod.
+- [Obelisk Overhaul Inspired By Eemi Seasonal Victorian](https://www.nexusmods.com/stardewvalley/mods/3198): Replaces the obelisks to match the previously installed victorian mod. The only drawback is that if you install *Desert Obelisk Mod* or *Deep Woods* you have to manually replace the corresponding images in every season. You can try to create hand-made XNB mods for these too if you feel like it, but otherwise I suggest to skip this mod, as I think the default totems do not look that bad in the Victorian setting to worth the trouble.
 - [SMAPI Seasonal Victoraian Buildings and Flowers](https://www.nexusmods.com/stardewvalley/mods/2050): A very nice recolor, that does well with the *Seasonal Victoraian Buildings and Flowers*. Use this Content Patcher version instead of any old one you find. After you start the game once and the config files are generated, you can edit the options for recolor, as written in the mod description.
 
+## 3. Gameplay
+- [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
+- [DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571) Adds a new, well-designed part to the forest. It is a good addition to the game, and compatible with a lot of other mods, except for the very similar:
+- [Even More Secret Woods](https://www.nexusmods.com/stardewvalley/mods/2364) Another mod that extends the forest. This one is more unbalanced (too much hardwood is obtainable), less detailed, and has compatibility issues with *DeepWoods*, so I recommend picking the previous one. If you still want to use both of them, you can find help in the description of *DeepWoods* and a patch among the downloadable files.
 
 # Finishing up
 
