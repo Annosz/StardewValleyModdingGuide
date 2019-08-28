@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Stardew Valley modding
 description: A detailed Stardew Valley modding guide for all fellow farmers out there.
+plugins:
+  - jemoji
