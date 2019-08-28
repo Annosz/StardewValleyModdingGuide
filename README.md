@@ -47,13 +47,13 @@ There are also two mods that are instantly included in SMAPI, and can be quite h
 ## ~~StarDew Valley ModManager~~
 **StarDew Valley Mod Manager (SDVMM)** was a very useful tool when it was regularly updated. I mainly feature it here to warn everyone that today it throws errors for almost anything, so it's not worth downloading. It's main features (updating SMAPI, mods, enabling and disabling them, launching the game) can be all done with other (or without) tools.
 
-The ModManager was originally available on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/21?tab=posts "StarDev Valley ModManager"), where an installation guide video is available, and you could download the latest version from the [Github page] (https://github.com/yuukiw/StardewValleyMM/releases "StarDev Valley ModManager"), but again, I don't recommend it.
+The ModManager was originally available on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/21?tab=posts "StarDev Valley ModManager"), where an installation guide video is available, and you could download the latest version from the [Github page](https://github.com/yuukiw/StardewValleyMM/releases "StarDev Valley ModManager"), but again, I don't recommend it.
 
 ## How to install the mods
 After you install SMAPI, installing mods will be as easy as copy-pasting folders into the game's directory (SDVMM would make it easier with a graphic interface, but it does not work).
 
 Generally, there are two types of mods:
-- SMAPI mods, which can be installed by copying them into the *Mods* folder in your Stardew Valley install location. On [Stardew Valley Wiki there] (https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder "Find your game folder") is a little help to find this folder. Most likely you download your mods in a .zip file, wich you have to unzip, then copy the **whole folder** into the *Mods* folder (there is also an example for this on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
+- SMAPI mods, which can be installed by copying them into the *Mods* folder in your Stardew Valley install location. On [Stardew Valley Wiki there](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder "Find your game folder") is a little help to find this folder. Most likely you download your mods in a .zip file, wich you have to unzip, then copy the **whole folder** into the *Mods* folder (there is also an example for this on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
 - XNB mods: 
 
 ### Configure, update or delete mods
