@@ -50,8 +50,8 @@ There are a lot of places where you can download SMAPI, but I suggest [smapi.io]
 It is important to install SMAPI correctly: if you use the Steam version of the game, modify the launch options like written in the guide, otherwise you will not be able to earn achievements.
 
 There are also two mods that are instantly included in SMAPI, and can be quite helpful:
-- :heart: SaveBackup
-- :heart: ConsoleCommands
+- :heart: SaveBackup: SMAPI automatically creates a daily backup of your saves and keeps ten backups, in case something goes wrong.
+- :heart: ConsoleCommands: In the SMAPI console which opens when you start the app, you can use various commands/cheats. These mainly have testing/modding development purposes, so I advise you don't use it for making your game easier. A full list of Console Commands can be found at the [Stardew Valley Wiki](https://stardewvalleywiki.com/Modding:Debug_commands "Modding:Debug commands").
 
 ## ~~StarDew Valley ModManager~~
 **StarDew Valley Mod Manager (SDVMM)** was a very useful tool when it was regularly updated. I mainly feature it here to warn everyone that today it throws errors for almost anything, so it's not worth downloading. It's main features (updating SMAPI, mods, enabling and disabling them, launching the game) can be all done with other (or without) tools.
@@ -63,13 +63,14 @@ After you install SMAPI, installing mods will be as easy as copy-pasting folders
 
 Generally, there are two types of mods:
 - SMAPI mods, which can be installed by copying them into the *Mods* folder in your Stardew Valley install location. On [Stardew Valley Wiki there](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder "Find your game folder") is a little help to find this folder. Most likely you download your mods in a .zip file, wich you have to unzip, then copy the **whole folder** into the *Mods* folder (there is also an example for this on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
-- XNB mods: 
+- XNB mods: In the old times, to install specific mods, you had to edit game files - for every mod, there was a different file in a different location, with the risk of corrupting your whole game. These are mainly the mods that change images in the game - for example if you want to change the portrait of a villager, you had to delete the previous and insert the new.
+You can strill find these mods on the internet, but you should **not use them**. For almost all of them there is an alternate mod of installation, which you will read more about in the *Content Patcher* section.
 
 ### Configure, update or delete mods
 
 ## Content Patcher
 
-In the *How to install the mods* section I talked about the two types of mods. What you need to know is that in the old times, to install mods, you had to edit game files - for every mod, there was a different file in a different location, with the risk of corrupting your whole game. This is what changed with **Content Patcher**: it makes it possible to install Mods by simply copying them to the game folder, checking for updates or removing them without editing the game files.
+In the *How to install the mods* section I talked about the two types of mods, and how dangerous was it to install XNBs. This is what changed with **Content Patcher**: it makes it possible to install these by simply copying them to the game folder, checking for updates or removing them without editing the game files.
 
 You have to install [Content Packer](https://www.nexusmods.com/stardewvalley/mods/1915) **after SMAPI**, similary to installing any mods: extracting it to the *Mods* folder (discussed in the *How to install the mods* section).
 
