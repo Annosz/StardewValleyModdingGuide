@@ -44,6 +44,10 @@ Here are the main information sources I used. These pages can be useful for you 
 
 To install mods, you first need to make some preparations. In the whole guide these will be the only steps, that are mandatory (or at least SMAPI and Content Patcher), and you have to make these **before installing any other mods**.
 
+First of all: **you should always update your game and mods to the current version** - or not. The main thing is that you do this consistently, and your versions match: if you have Steam for example, then it will always update your game for you, and you should keep your mods in sync with it (following the steps in the *Configure, update or delete mods* sections, preferably together with *Mod Update Menu*).
+
+If you don't want to update your mods, the you have to make sure that you disable the game update for Stardew Valley in Steam's or GoG's options. However, in this case if you want to install a newer mod, you will most likely won't be able to use it because your game version will be older than it's minimal requirement :( This option is only recommended, if you are really-really sure that you want to freeze the game to one version and only use that.
+
 ## SMAPI
 **SMAPI (Stardew Modding API)** is the main foundation we have to build on. This is the API (Application Programming Interface) that let's modders to change the game, and write extensions to it - which means basically *every* mod needs it. It also provides update checks and compatibility checks between mods: you will see warnings when you start the game which let you know that you have to download the latest version of a mod. It also provides error check, so a misfuncioning mod won't crash your whole game or corrupt you save if you load it with SMAPI - so yeah, it is pretty important.
 
@@ -65,7 +69,7 @@ The ModManager was originally available on the [Nexus](https://www.nexusmods.com
 After you install SMAPI, installing mods will be as easy as copy-pasting folders into the game's directory (SDVMM would make it easier with a graphic interface, but it does not work).
 
 Generally, there are two types of mods:
-- SMAPI mods, which can be installed by copying them into the *Mods* folder in your Stardew Valley install location. On [Stardew Valley Wiki there](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder "Find your game folder") is a little help to find this folder. Most likely you download your mods in a .zip file, wich you have to unzip, then copy the **whole folder** into the *Mods* folder (there is also an example for this on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
+- SMAPI mods, which can be installed by copying them into the *Mods* folder in your Stardew Valley install location. On [Stardew Valley Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder "Find your game folder") there is a little help to find this folder. Most likely you download your mods in a .zip file, wich you have to unzip, then copy the **whole folder** into the *Mods* folder (there is also an example for this on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Install_mods).
 - XNB mods: In the old times, to install specific mods, you had to edit game files - for every mod, there was a different file in a different location, with the risk of corrupting your whole game. These are mainly the mods that change images in the game - for example if you want to change the portrait of a villager, you had to delete the previous and insert the new.
 You can strill find these mods on the internet, but you should **not use them**. For almost all of them there is an alternate mod of installation, which you will read more about in the *Content Patcher* section.
 
@@ -85,7 +89,9 @@ After this when you see a mod, make sure that you do not download an XNB version
 For example: when I found the original [Seasonal Buildings and flowers](https://www.nexusmods.com/stardewvalley/mods/891) mod, I saw a bunch of instructions on how to install it (and it's not even a real XNB mod, it already has some SMAPI support!). But in the comments, I foun the link to the [Content Patcher version](https://www.nexusmods.com/stardewvalley/mods/3691), and when I used that it was enough to only download the .zip and extract it to the *Mods* folder as with every other mod. Of course in this guide I always write the CP links, not the XNB ones, but if you want to install mods on your own, watch out for this.
 
 ## Mod Update Menu
+The [Mod Update Menu](https://www.nexusmods.com/stardewvalley/mods/2536) extends the Main Menu of the game with an extra window where you can find informations about your mods. It warns you if any of them has available updates (or if your SMAPI is not up-to-date), which is very useful - this way you can prevent errors caused by incompatible versions. It even shows the download link, so you can instantly go to the Nexus and download the new version.
 
+The only problem is that it only knows Nexus mods. This means you should always download your mods from here - but there are always some mods you find on the forums (for example Content Patcher replacements) which show up as errors. Apart from this, they only mean a minor inconvinience: they will simply be left out of version checkings, and have a very annoying red color in the menu.
 
 # Installing the mods
 
