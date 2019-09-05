@@ -70,9 +70,12 @@ Generally, there are two types of mods:
 You can strill find these mods on the internet, but you should **not use them**. For almost all of them there is an alternate mod of installation, which you will read more about in the *Content Patcher* section.
 
 ### Configure, update or delete mods
+You can also find detailed information about making changes to mods on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Configure_mods), but the most important thing are:
+- There are mods you can configure. Usually this information is signalled on the mod page, an it lists the options you can choose from. You can use these options by opening the *config.json* file in the mod's folder with a text editor (like notepad), and changing the values you want to modify.
+- Updating is as easy as installing mods: just replace the old files with the new ones (and keep your modifications on the *config.json*, if you made any).
+- Deleting a mod is done by removing its folder from the *Mods* folder.
 
 ## Content Patcher
-
 In the *How to install the mods* section I talked about the two types of mods, and how dangerous was it to install XNBs. This is what changed with **Content Patcher**: it makes it possible to install these by simply copying them to the game folder, checking for updates or removing them without editing the game files.
 
 You have to install [Content Packer](https://www.nexusmods.com/stardewvalley/mods/1915) **after SMAPI**, similary to installing any mods: extracting it to the *Mods* folder (discussed in the *How to install the mods* section).
@@ -98,10 +101,18 @@ For example: when I found the original [Seasonal Buildings and flowers](https://
 - :green_heart: [Classy new interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-66#post-3306821): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/854 "Classy new interior"), but make sure to download the SMAPI mod from the provided link.
 - :green_heart: [Dark brown and cream colored furniture](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3303093): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/2190 "Dark brown and cream colored furniture"), but make sure to download the SMAPI mod from the provided link.
 
-## 3. Gameplay
+## 2. User Interface
+
+## 3. Villagers
+
+## 4. Character creation
+
+## 5. Gameplay
 - :green_heart:[Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
 - :green_heart:[DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571) Adds a new well-designed, mine-like part to the forest. It is a good addition to the game, has a nice balance and difficulty, and a ton of interesting encounters and events. It is compatible with a lot of other mods, except for the very similar:
 - :yellow_heart:[Even More Secret Woods](https://www.nexusmods.com/stardewvalley/mods/2364) Another mod that extends the forest. This one is more unbalanced (basically just ads more hardwood without a challenge), less detailed, not updated and if you want to add it to an existing save, you have to use *Entoarox Framework* as explained in the description. It also has compatibility issues with *DeepWoods*, so I recommend picking the previous one. If you still want to use both of them, you can find help in the description of *DeepWoods* and a patch among the downloadable files.
+
+## 6. Other mods
 
 # Finishing up
 
