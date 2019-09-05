@@ -6,6 +6,9 @@ As a programmer and serial modder, after a few playthrough I naturally started t
 
 This guide is ment to be a help for those, who are not really technically savy or does not have the time to browse wiki sites, forums or Discord to find and compare the available mods, but want to use them and have as much fun with Stardew Valley as possible - just like me.
 
+* TOC
+{:toc}
+
 ## How to use this guide
 
 This guide's greatest advantage is that it's written by me.
