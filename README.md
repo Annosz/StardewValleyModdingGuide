@@ -6,7 +6,7 @@ As a programmer and serial modder, after a few playthrough I naturally started t
 
 This guide is ment to be a help for those, who are not really technically savy or does not have the time to browse wiki sites, forums or Discord to find and compare the available mods, but want to use them and have as much fun with Stardew Valley as possible - just like me.
 
-* TOC
+* Table of contents
 {:toc}
 
 ## How to use this guide
@@ -92,7 +92,8 @@ For example: when I found the original [Seasonal Buildings and flowers](https://
 - :green_heart: [SMAPI Seasonal Victoraian Buildings and Flowers](https://www.nexusmods.com/stardewvalley/mods/2050): A very nice recolor, that does well with the *Seasonal Victoraian Buildings and Flowers*. Use this Content Patcher version instead of any old one you find. After you start the game once and the config files are generated, you can edit the options for recolor, as written in the mod description.
   - This mod already contains :green_heart: [Ali's Flower Grass](https://www.nexusmods.com/stardewvalley/mods/2051): If you'd like a vivid Stardew Valley, this is the mod for you. Goes along perfectly with the Victorian style - you just have to set "UseEemieGrass": "false" (othervise it uses another grass mode) and "AliGrass": "Eemie" (or anything you like) in the config file.
 
-#### Choose one interior mod
+<dl><dt>Choose one interior mod</dt></dl>
+
 - :green_heart: [Elegant Victorian Interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-8#post-3275117): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/1074 "Elegant Victorian Interior"), but make sure to download the SMAPI mod from the provided link (don't let the name deceive you, *Mi's Victorian Furniture* is inspired by Eemie's work).
 - :green_heart: [Classy new interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-66#post-3306821): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/854 "Classy new interior"), but make sure to download the SMAPI mod from the provided link.
 - :green_heart: [Dark brown and cream colored furniture](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3303093): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/2190 "Dark brown and cream colored furniture"), but make sure to download the SMAPI mod from the provided link.
