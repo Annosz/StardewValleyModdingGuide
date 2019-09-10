@@ -109,6 +109,7 @@ The only problem is that it only knows Nexus mods. This means you should always 
 <dl><dt>    -> If you are more into medieval stuff:</dt></dl>
 
 - ...
+
 ___
 
 <dl><dt>Choose one interior mod:</dt></dl>
@@ -116,6 +117,7 @@ ___
 - :green_heart: [Elegant Victorian Interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-8#post-3275117): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/1074 "Elegant Victorian Interior"), but make sure to download the SMAPI mod from the provided link (don't let the name deceive you, *Mi's Victorian Furniture* is inspired by Eemie's work).
 - :green_heart: [Classy new interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-66#post-3306821): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/854 "Classy new interior"), but make sure to download the SMAPI mod from the provided link.
 - :green_heart: [Dark brown and cream colored furniture](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3303093): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/2190 "Dark brown and cream colored furniture"), but make sure to download the SMAPI mod from the provided link.
+
 ___
 
 - :green_heart: [Ali's Flower Grass](https://www.nexusmods.com/stardewvalley/mods/2051): If you haven't installed it with *SMAPI Seasonal Victoraian Buildings and Flowers*, I suggest you go for it: it adds beautiful grass to the game, which is configurable from the config file.
