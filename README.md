@@ -96,16 +96,29 @@ The only problem is that it only knows Nexus mods. This means you should always 
 # Installing the mods
 
 ## 1. Graphic mods
+
+<dl><dt>Choose one setting to your liking</dt></dl>
+
+<dl><dt>    -> If you fancy a little Victorian look:</dt></dl>
+
 - :green_heart: [Eemie's Seasonal Victorian Buildings - Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3691): New Vistorian buildings, if you are into this stuff (you are playing Stardew Valley, so I guess you must be into beautiful stuff). Use this Content Patcher version instead of any old one you find.
 - :yellow_heart: [Obelisk Overhaul Inspired By Eemi Seasonal Victorian](https://www.nexusmods.com/stardewvalley/mods/3198): Replaces the obelisks to match the previously installed victorian mod. The only drawback is that if you install *Desert Obelisk Mod* or *Deep Woods* you have to manually replace the corresponding images in every season. You can try to create hand-made XNB mods for these too if you feel like it, but otherwise I suggest to skip this mod, as I think the default totems do not look that bad in the Victorian setting to worth the trouble.
 - :green_heart: [SMAPI Seasonal Victoraian Buildings and Flowers](https://www.nexusmods.com/stardewvalley/mods/2050): A very nice recolor, that does well with the *Seasonal Victoraian Buildings and Flowers*. Use this Content Patcher version instead of any old one you find. After you start the game once and the config files are generated, you can edit the options for recolor, as written in the mod description.
   - This mod already contains :green_heart: [Ali's Flower Grass](https://www.nexusmods.com/stardewvalley/mods/2051): If you'd like a vivid Stardew Valley, this is the mod for you. Goes along perfectly with the Victorian style - you just have to set "UseEemieGrass": "false" (othervise it uses another grass mode) and "AliGrass": "Eemie" (or anything you like) in the config file.
 
-<dl><dt>Choose one interior mod</dt></dl>
+<dl><dt>    -> If you are more into medieval stuff:</dt></dl>
+
+- ...
+___
+
+<dl><dt>Choose one interior mod:</dt></dl>
 
 - :green_heart: [Elegant Victorian Interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-8#post-3275117): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/1074 "Elegant Victorian Interior"), but make sure to download the SMAPI mod from the provided link (don't let the name deceive you, *Mi's Victorian Furniture* is inspired by Eemie's work).
 - :green_heart: [Classy new interior](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-66#post-3306821): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/854 "Classy new interior"), but make sure to download the SMAPI mod from the provided link.
 - :green_heart: [Dark brown and cream colored furniture](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3303093): You can watch the mod with images on the [Nexus](https://www.nexusmods.com/stardewvalley/mods/2190 "Dark brown and cream colored furniture"), but make sure to download the SMAPI mod from the provided link.
+___
+
+- :green_heart: [Ali's Flower Grass](https://www.nexusmods.com/stardewvalley/mods/2051): If you haven't installed it with *SMAPI Seasonal Victoraian Buildings and Flowers*, I suggest you go for it: it adds beautiful grass to the game, which is configurable from the config file.
 
 ## 2. User Interface
 
