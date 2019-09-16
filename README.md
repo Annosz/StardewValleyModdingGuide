@@ -125,7 +125,7 @@ ___
 - :heart: [Elle's Barn Animal Replacements](https://www.nexusmods.com/stardewvalley/mods/1960): When you install it, you have to select a style for each animal you want to replace. For reference, see the images on the Nexus page, and copy only the one folder that you selected into the *Mods* folder of your game.
 - :heart: [Elle's Coop Animal Replacements](https://www.nexusmods.com/stardewvalley/mods/1962): When you install it, you have to select a style for each animal you want to replace. For reference, see the images on the Nexus page, and copy only the one folder that you selected into the *Mods* folder of your game.
 - :heart: [Elle's Horse Replacements](https://www.nexusmods.com/stardewvalley/mods/1963): When you install it, you have to select a style for each animal you want to replace. For reference, see the images on the Nexus page, and copy only the one folder that you selected into the *Mods* folder of your game.
-- :heart: [Elle's Critter and Butterfly Replacements (Content Patcher)](https://www.nexusmods.com/stardewvalley/mods/1965): When you install it, you have to select a style for each animal you want to replace. For reference, see the images on the Nexus page, and copy only the one folder that you selected into the *Mods* folder of your game.
+- :heart: [Elle's Critter and Butterfly Replacements (Content Patcher)](https://www.nexusmods.com/stardewvalley/mods/1965): Recolors butterflies, critters, etc. You don't have to choose from different versions, you can install the whole pack.
 - :green_heart: [Elle's Dirt and Cliff Recolor (Content Patcher)](https://www.nexusmods.com/stardewvalley/mods/1966): Recolor for dirt and cliffs.
 - :green_heart: [Bathhouse Hot Spring - Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3110): A totally new style for the bathhouse.
 - :green_heart: [Darker wood and gold craftables](https://www.nexusmods.com/stardewvalley/mods/687): Gives a darker color to wooden craftables.
@@ -137,9 +137,9 @@ ___
 ## 4. Character creation
 
 ## 5. Gameplay
-- :green_heart:[Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
-- :green_heart:[DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571) Adds a new well-designed, mine-like part to the forest. It is a good addition to the game, has a nice balance and difficulty, and a ton of interesting encounters and events. It is compatible with a lot of other mods, except for the very similar:
-- :yellow_heart:[Even More Secret Woods](https://www.nexusmods.com/stardewvalley/mods/2364) Another mod that extends the forest. This one is more unbalanced (basically just ads more hardwood without a challenge), less detailed, not updated and if you want to add it to an existing save, you have to use *Entoarox Framework* as explained in the description. It also has compatibility issues with *DeepWoods*, so I recommend picking the previous one. If you still want to use both of them, you can find help in the description of *DeepWoods* and a patch among the downloadable files.
+- :green_heart: [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
+- :green_heart: [DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571) Adds a new well-designed, mine-like part to the forest. It is a good addition to the game, has a nice balance and difficulty, and a ton of interesting encounters and events. It is compatible with a lot of other mods, except for the very similar:
+- :yellow_heart: [Even More Secret Woods](https://www.nexusmods.com/stardewvalley/mods/2364) Another mod that extends the forest. This one is more unbalanced (basically just ads more hardwood without a challenge), less detailed, not updated and if you want to add it to an existing save, you have to use *Entoarox Framework* as explained in the description. It also has compatibility issues with *DeepWoods*, so I recommend picking the previous one. If you still want to use both of them, you can find help in the description of *DeepWoods* and a patch among the downloadable files.
 
 ## 6. Other mods
 
