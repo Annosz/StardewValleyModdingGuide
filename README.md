@@ -110,6 +110,10 @@ The only problem is that it only knows Nexus mods. This means you should always 
 
 - ...
 
+<dl><dt>    -> Other (choose one if you haven't choose from the previous categories):</dt></dl>
+
+- ...
+
 ___
 
 <dl><dt>Choose one interior mod:</dt></dl>
@@ -129,19 +133,23 @@ ___
 - :green_heart: [Elle's Dirt and Cliff Recolor (Content Patcher)](https://www.nexusmods.com/stardewvalley/mods/1966): Recolor for dirt and cliffs.
 - :green_heart: [Bathhouse Hot Spring - Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3110): A totally new style for the bathhouse.
 - :green_heart: [Darker wood and gold craftables](https://www.nexusmods.com/stardewvalley/mods/687): Gives a darker color to wooden craftables.
+- :green_heart: [Animal Crossing Digspot - Worm Replacement](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/#post-3259191) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/18 "Animal Crossing Digspot - Worm Replacement") page): Slightly better visible than worms, and gives a nostalgic feeling if you played Animal Crossing.
 
-## 2. User Interface
+## 2. Map extensions
+- :green_heart: [DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571) Adds a new well-designed, mine-like part to the forest. It is a good addition to the game, has a nice balance and difficulty, and a ton of interesting encounters and events. It is compatible with a lot of other mods, except for the very similar:
+- :yellow_heart: [Even More Secret Woods](https://www.nexusmods.com/stardewvalley/mods/2364) Another mod that extends the forest. This one is more unbalanced (basically just ads more hardwood without a challenge), less detailed, not updated and if you want to add it to an existing save, you have to use *Entoarox Framework* as explained in the description. It also has compatibility issues with *DeepWoods*, so I recommend picking the previous one. If you still want to use both of them, you can find help in the description of *DeepWoods* and a patch among the downloadable files.
+- :green_heart: [Bathroom after 2nd Houseupgrade](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-20#post-3283861) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/299 "Bathroom after 2nd Houseupgrade") page): Adds a bathroom to your house, that funcions exactly as the bathhouse. *Maybe* a little unbalanced, but I think that at that part of the game when you have access to the 2nd house upgrade you usally have enough energy for a day and time is a biggern concern during the daily chores.
 
-## 3. Villagers
+## 3. User Interface
 
 ## 4. Character creation
 
-## 5. Gameplay
-- :green_heart: [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
-- :green_heart: [DeepWoods](https://www.nexusmods.com/stardewvalley/mods/2571) Adds a new well-designed, mine-like part to the forest. It is a good addition to the game, has a nice balance and difficulty, and a ton of interesting encounters and events. It is compatible with a lot of other mods, except for the very similar:
-- :yellow_heart: [Even More Secret Woods](https://www.nexusmods.com/stardewvalley/mods/2364) Another mod that extends the forest. This one is more unbalanced (basically just ads more hardwood without a challenge), less detailed, not updated and if you want to add it to an existing save, you have to use *Entoarox Framework* as explained in the description. It also has compatibility issues with *DeepWoods*, so I recommend picking the previous one. If you still want to use both of them, you can find help in the description of *DeepWoods* and a patch among the downloadable files.
+## 5. Villagers
 
-## 6. Other mods
+## 6. Gameplay
+- :green_heart: [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
+
+## 7. Other mods
 
 # Finishing up
 
