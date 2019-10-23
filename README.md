@@ -163,10 +163,16 @@ ___
  - :heart: [Gift Taste Helper](https://www.nexusmods.com/stardewvalley/mods/229): A helpful mod thet shows the loved gift for each person in the calendar and in the Villagers menu (not inluding universally  loved gifts). If you feel like it's a cheat, you can modify the game's configuration to only show gifts that your character already knows if the person loves it, so you will have the opportunity to figure them out yourself.
   - :heart: [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080): Really immersive addition to the game. With this, you can immediately see what kind of artistan goods you have in your inventory.
   - :heart: ~~[Chest Label System](https://www.nexusmods.com/stardewvalley/mods/242)~~: A very good mod, but currently it's broken. If you want to replace it, I suggest using *[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)*. However that mod know *way more* than we need, so if you want to use it only for chest labeling, I suggest you use the following settings in the config file: Range: None, EnableShippingBin: False and DisableInLocations: ["UndergroundMine"]
-  
 
 
 ## 4. Character creation
+
+<dl><dt>You can install as many hair mods as you like:</dt></dl>
+
+- :green_heart: [Cute long hairstyles](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-4#post-3267152) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/910 "Cute long hairstyles") page): Adds 3 new hairstyles to the game.
+- :green_heart: [Improved and New Hairstylesr](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-6#post-3273781) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/132 "Improved and New Hairstylesr") page): Adds 12 new hairstyles to the game.
+
+___
 
 ## 5. Villagers
 
