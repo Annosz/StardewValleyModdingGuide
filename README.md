@@ -141,6 +141,30 @@ ___
 - :green_heart: [Bathroom after 2nd Houseupgrade](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-20#post-3283861) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/299 "Bathroom after 2nd Houseupgrade") page): Adds a bathroom to your house, that funcions exactly as the bathhouse. *Maybe* a little unbalanced, but I think that at that part of the game when you have access to the 2nd house upgrade you usally have enough energy for a day and time is a biggern concern during the daily chores.
 
 ## 3. User Interface
+- :heart: [Ui Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150): Hands down one of the most useful mods in Stardew Valley. It adds indicators for various things: current luck, Queen of Sauce, bithdays, harvestable animal products, placable item ranges, NPC locations and other... None of these make the game too easy or ruin the fun, theye are selected very carefully and really make playing more comfortable.
+Notice that be installing *Ui Info Suite* the following mods became redundant (and can cause error):
+  - :yellow_heart: [CJB Show Item Sell Price](https://www.nexusmods.com/stardewvalley/mods/5): Shows sell price on items.
+  - :yellow_heart: [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239): Shows NPC map locations (installing over *UI Info Suite* will display everything twice, and looks very bad).
+  - :yellow_heart: [Range Display](https://www.nexusmods.com/stardewvalley/mods/1179): Range display for sprinklers, scarecrows, bee houses, and junimo huts.
+  - :yellow_heart: [Simple Crop Label](https://www.nexusmods.com/stardewvalley/mods/314): Display the type of crop on mouse over - useful to see it when its still in seed state.
+  - :yellow_heart: [Loved Labels](https://www.nexusmods.com/stardewvalley/mods/279): Display if the animal has been petted that day.
+  - :yellow_heart: [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859): Shows harvestable animal product and love needed warnings on animals.
+  - :yellow_heart: [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509): It is not the same to *UI Info suite*, as this shows the experiance bars constantly on the screen - but as the design isn't good and the bars are quite annoying, I don't recommend it.
+  - :yellow_heart: [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541): If you like it, go for it, but I think it's kind of an overkill. It is kind of an ingame Wikipedia, but the informations shown in other mods are enough for this, no need to install this one too.
+
+___
+
+<dl><dt>Choose one enemy healthbar mod:</dt></dl>
+
+- :green_heart: [Enemies Health Bars](https://www.nexusmods.com/stardewvalley/mods/3627): Over the head, bigger, has numeric value.
+- :green_heart: [HP Bar](https://www.nexusmods.com/stardewvalley/mods/1736): Under the creatures, smaller, does not have numeric value.
+
+___
+ - :heart: [Gift Taste Helper](https://www.nexusmods.com/stardewvalley/mods/229): A helpful mod thet shows the loved gift for each person in the calendar and in the Villagers menu (not inluding universally  loved gifts). If you feel like it's a cheat, you can modify the game's configuration to only show gifts that your character already knows if the person loves it, so you will have the opportunity to figure them out yourself.
+  - :heart: [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080): Really immersive addition to the game. With this, you can immediately see what kind of artistan goods you have in your inventory.
+  - :heart: ~~[Chest Label System](https://www.nexusmods.com/stardewvalley/mods/242)~~: A very good mod, but currently it's broken. If you want to replace it, I suggest using *[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)*. However that mod know *way more* than we need, so if you want to use it only for chest labeling, I suggest you use the following settings in the config file: Range: None, EnableShippingBin: False and DisableInLocations: ["UndergroundMine"]
+  
+
 
 ## 4. Character creation
 
