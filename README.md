@@ -166,8 +166,8 @@ ___
 
 <dl><dt>Choose one enemy healthbar mod:</dt></dl>
 
-- :green_heart: [Enemies Health Bars](https://www.nexusmods.com/stardewvalley/mods/3627): Over the head, bigger, has numeric value.
-- :green_heart: [HP Bar](https://www.nexusmods.com/stardewvalley/mods/1736): Under the creatures, smaller, does not have numeric value.
+- :heart: [Enemies Health Bars](https://www.nexusmods.com/stardewvalley/mods/3627): Over the head, bigger, has numeric value (but configurable to hide). It also contains a fun feature: if you haven't killed enough monsters from the same type and/or your combat skill is not high enough, you only see a grey bar at their head. You only get more detailer health information when you have more experience, which is very immersive and fun. (This feature can also be disabled.)
+- :green_heart: [HP Bar](https://www.nexusmods.com/stardewvalley/mods/1736): Under the creatures, smaller, does not have numeric value (but configurable to show).
 
 ___
  - :heart: [Gift Taste Helper](https://www.nexusmods.com/stardewvalley/mods/229): A helpful mod thet shows the loved gift for each person in the calendar and in the Villagers menu (not inluding universally  loved gifts). If you feel like it's a cheat, you can modify the game's configuration to only show gifts that your character already knows if the person loves it, so you will have the opportunity to figure them out yourself.
