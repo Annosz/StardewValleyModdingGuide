@@ -93,6 +93,16 @@ The [Mod Update Menu](https://www.nexusmods.com/stardewvalley/mods/2536) extends
 
 The only problem is that it only knows Nexus mods. This means you should always download your mods from here - but there are always some mods you find on the forums (for example Content Patcher replacements) which show up as errors. Apart from this, they only mean a minor inconvinience: they will simply be left out of version checkings, and have a very annoying red color in the menu.
 
+## Minor mods required by other mods
+There are a few mods that do not change the gameplay, but extend modding possibilities (for example enhance SMAPI), and are required by other mods. This means you have to install these before you can use the mods depending on them.
+
+Of course you can choose to only install one if you want to use any mods that requires it, but I think it's easier to just intall them now. They do not change the game by any means, and they are required in mods that are present in this guide, so you can spare some debugging and headache if you just do it now.
+
+- :heart: [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726): Required by a lot of other mods, eg. *Climates of Ferngill* and *Mermaid Island*
+- :heart: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720): Required by a lot of other mods, eg. *Poppi's Kawaii Valley* and *Line Sprinklers*
+- :heart: [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348): Required by a few other mods, eg. *Cooking Skill* and *Artisan Valley*
+- :heart: [Stardew Hack](https://www.nexusmods.com/stardewvalley/mods/3213): Required by a few other mods, eg. *Bigger Backpack* and *Yet Another Harvest With Scythe Mod*
+
 # Installing the mods
 
 ## 1. Graphic mods
