@@ -178,10 +178,15 @@ ___
 
 ## 4. Character creation
 
-<dl><dt>You can install as many hair mods as you like:</dt></dl>
+<dl><dt>Choose one hair mod:</dt></dl>
 
-- :green_heart: [Cute long hairstyles](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-4#post-3267152) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/910 "Cute long hairstyles") page): Adds 3 new hairstyles to the game.
-- :green_heart: [Improved and New Hairstylesr](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-6#post-3273781) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/132 "Improved and New Hairstylesr") page): Adds 12 new hairstyles to the game.
+- :heart: [Cute long hairstyles](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-4#post-3267152) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/910 "Cute long hairstyles") page): Adds 3 new hairstyles to the game, with 2 different variations.
+- :heart: [Hairstyles recolored and a new Hairstyle Update](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-12#post-3278565) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/1103 "Hairstyles recolored and a new Hairstyle Update") page): My personal favorite, adds 21 new hairstyles to the game, plus their recolored versions (about 50 new hairs in total).
+- :green_heart: [Improved and New Hairstyles](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-6#post-3273781) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/132 "Improved and New Hairstyles") page): Adds 12 new hairstyles to the game.
+- :green_heart: [CRABBIT's new hair](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-12#post-3278197) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/1368 "CRABBIT's new hair") page): Adds a few new hairstyles to the game.
+- :green_heart: [Dangan Ronpa Trigger Happy Havoc Female Hair and Shirts](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-64#post-3305998) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/163 "Dangan Ronpa Trigger Happy Havoc Female Hair and Shirts") page): Adds a bunch of new hairstyles and shirts to the game.
+- :green_heart: [Karinas long hair](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-64#post-3305998) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/512 "Karinas long hair") page): Adds a 15 new hairstyles to the game.
+- :green_heart: [More Hairstyles](https://www.dropbox.com/s/9976xv6s788uhs5/%5BCP%5D%20Pencilstab%27s%20Hair.zip?dl=0) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/91 "More Hairstyles") page): Adds a 16 new hairstyles to the game.
 
 ___
 
