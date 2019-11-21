@@ -199,7 +199,9 @@ ___
 ## 5. Villagers
 
 ## 6. Gameplay
-- :green_heart: [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021) A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
+- :heart: [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731): This mods lets you harvest any plant using you scythe, which makes your farming much faster. I never had fun while I harvested bigger fields, with hundreds of cauliflower or pumpkin ripened at the same time, so I don't feel this mod unimmersive or cheaty.
+  - :broken_heart: Note that [Harvest With Scythe](https://www.nexusmods.com/stardewvalley/mods/236) and [Scythe Harvesting v2.0](https://www.nexusmods.com/stardewvalley/mods/1106) are both broken.
+- :green_heart: [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021): A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
 
 ## 7. Other mods
 
