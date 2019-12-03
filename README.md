@@ -77,12 +77,12 @@ You can strill find these mods on the internet, but you should **not use them**.
 You can also find detailed information about making changes to mods on the [Wiki](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Configure_mods), but the most important thing are:
 - There are mods you can configure. Usually this information is signalled on the mod page, an it lists the options you can choose from. You can use these options by opening the *config.json* file in the mod's folder with a text editor (like notepad), and changing the values you want to modify.
 - Updating is as easy as installing mods: just replace the old files with the new ones (and keep your modifications on the *config.json*, if you made any).
-- Deleting a mod is done by removing its folder from the *Mods* folder.
+- Deleting a mod is done by removing it's folder from the *Mods* folder.
 
 ## Content Patcher
-In the *How to install the mods* section I talked about the two types of mods, and how dangerous was it to install XNBs. This is what changed with **Content Patcher**: it makes it possible to install these by simply copying them to the game folder, checking for updates or removing them without editing the game files.
+In the *How to install the mods* section I talked about the two types of mods, and how dangerous it was to install XNBs. This changed with **Content Patcher**: it makes possible to install XNBs by simply copying them to the game folder, checking for updates or removing them without editing the game files.
 
-You have to install [Content Packer](https://www.nexusmods.com/stardewvalley/mods/1915) **after SMAPI**, similary to installing any mods: extracting it to the *Mods* folder (discussed in the *How to install the mods* section).
+You have to install [Content Packer](https://www.nexusmods.com/stardewvalley/mods/1915) **after SMAPI**, similarly to installing any mods: extracting it to the *Mods* folder (discussed in the *How to install the mods* section).
 
 After this when you see a mod, make sure that you do not download an XNB version but the SMAPI one. Most of the original mods now have unofficial SMAPI replacements, which can be found on [this forum](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/). A list that makes it easyier to search the mods also [exists here](https://stardewvalleywiki.com/Modding:Using_XNB_mods#Alternatives_using_Content_Patcher).
 
