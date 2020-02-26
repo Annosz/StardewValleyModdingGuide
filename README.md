@@ -100,7 +100,9 @@ Of course you can choose to only install one if you want to use any mods that re
 
 - :heart: [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726): Required by a lot of other mods, eg. *Climates of Ferngill* and *Mermaid Island*
 - :heart: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720): Required by a lot of other mods, eg. *Poppi's Kawaii Valley* and *Line Sprinklers*
+- :heart: [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231?tab=description): Required by a moderate ammount of other mods, eg. *Better Quarry Redux* and *Stardew Valley Expanded*
 - :heart: [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348): Required by a few other mods, eg. *Cooking Skill* and *Artisan Valley*
+- :heart: [Stardust Core](https://www.nexusmods.com/stardewvalley/mods/2341): Required by a few other mods, eg. *Happy Birthday*
 - :heart: [Stardew Hack](https://www.nexusmods.com/stardewvalley/mods/3213): Required by a few other mods, eg. *Bigger Backpack* and *Yet Another Harvest With Scythe Mod*
 
 # Installing the mods
@@ -202,7 +204,6 @@ ___
 ## 6. Gameplay
 - :heart: [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731): This mods lets you harvest any plant using you scythe, which makes your farming much faster. I never had fun while I harvested bigger fields, with hundreds of cauliflower or pumpkin ripened at the same time, so I don't feel this mod unimmersive or cheaty.
   - :broken_heart: Note that [Harvest With Scythe](https://www.nexusmods.com/stardewvalley/mods/236) and [Scythe Harvesting v2.0](https://www.nexusmods.com/stardewvalley/mods/1106) are both broken.
-- :green_heart: [Desert Obelisk](https://www.nexusmods.com/stardewvalley/mods/2021): A simple mod that ads a Desert Obelisk to the game. Quite useful and balanced.
 
 ## 7. Other mods
 
