@@ -198,13 +198,22 @@ ___
 - :heart: [Happy Birthday](https://www.nexusmods.com/stardewvalley/mods/520): If every villager has a birhtday, why don't you? This mod solves the problem: it lets you pick a date when all characters give you gift and compliments based on their heart level. A must-have immersive addition to the base game!
 - :yellow_heart: [Kawaii Hats](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3302982) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/64 "Kawaii Hats") page): Replaces the existing hats in the game with new ones, which can be cute, but they are mostly unimmersive and cringe. And it's not an extension: if you install it, you won't be able to access the game's basic hats.
 
-## 5. Villagers
+## 5. Pets
 
-## 6. Gameplay
+- :green_heart: [Shiba Inu - Shepherd - Husky - Pet Dog Mod (CP)](https://www.nexusmods.com/stardewvalley/mods/570): With this mod you can change the type of your dog: the default is Shiba Inu (which has a little bit too big head for my taste), but you can choose from the three breeds mentioned in the title by editing the config.json file.
+- :heart: [Pet Water Bowl](https://www.nexusmods.com/stardewvalley/mods/2009): Your pet's bowl will fill with water when it's raining or snowing. A nice little immersive touch to the game.
+- :heart: [Improved Pet Area (Content Patcher Edition)](https://www.nexusmods.com/stardewvalley/mods/2026): This mod changes the look of the pet area next to your house to a more welcoming one. Your pet will have a separate food bowl and a blanket to lay on - it's really just a nice visual update.
+
+## 6. Villagers
+
+- :heart: [Seasonal Villager Outfits](https://www.nexusmods.com/stardewvalley/mods/2449): This mod is awesome - it adds at least 4 separate outfits for every character, with other costumes such as wedding dresses, festival clothings or raincoats. This is unique and tailor-made (heh) for every character to match their personality, making the game more colorful and immersive. But the awesomeness does not stop here, because this mod also includes new portraits for every one of the clothes. These pictures are made with the original art style, and are perfectly integrated into the Stardew Valley feeling. However, it makes you unable to install any other character portrait mod, so if you want anime portraits or anything else, do not use this one.
+- :green_heart: [Babies Take After Spouse Plus New Toddler Hair and Clothes](https://www.nexusmods.com/stardewvalley/mods/552): Your babies will look like your spouse, which is half-cute and nice and half-creepy as f. Decine which half you find stronger.
+
+## 7. Gameplay
 - :heart: [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731): This mods lets you harvest any plant using you scythe, which makes your farming much faster. I never had fun while I harvested bigger fields, with hundreds of cauliflower or pumpkin ripened at the same time, so I don't feel this mod unimmersive or cheaty.
   - :broken_heart: Note that [Harvest With Scythe](https://www.nexusmods.com/stardewvalley/mods/236) and [Scythe Harvesting v2.0](https://www.nexusmods.com/stardewvalley/mods/1106) are both broken.
 
-## 7. Other mods
+## 8. Other mods
 
 # Finishing up
 
