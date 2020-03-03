@@ -193,8 +193,7 @@ ___
 ___
 
 - :heart: [Get Glam](https://www.nexusmods.com/stardewvalley/mods/5044 "Get Glam"): A very important mod that adds a dresser to your farmhouse, where you can change your appearance (same as at the wizard, but free and always available). You didn't download those hair and clothes mod to only choose one and use it during the whole playthrough, did you?
-  - :heart: [Kisekae](https://www.nexusmods.com/stardewvalley/mods/2348 "Kisekae"): Note that *Kisekae* is broken, and *Get Glam* is the official replacement for it.
-  - :broken_heart: [Get Dressed](https://www.nexusmods.com/stardewvalley/mods/331): Note that *Get Dressed* is broken, and *Get Glam* is the official replacement for it.
+  - :broken_heart: Note that [Kisekae](https://www.nexusmods.com/stardewvalley/mods/2348 "Kisekae") and [Get Dressed](https://www.nexusmods.com/stardewvalley/mods/331) are both broken.
 - :heart: [Happy Birthday](https://www.nexusmods.com/stardewvalley/mods/520): If every villager has a birhtday, why don't you? This mod solves the problem: it lets you pick a date when all characters give you gift and compliments based on their heart level. A must-have immersive addition to the base game!
 - :yellow_heart: [Kawaii Hats](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3302982) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/64 "Kawaii Hats") page): Replaces the existing hats in the game with new ones, which can be cute, but they are mostly unimmersive and cringe. And it's not an extension: if you install it, you won't be able to access the game's basic hats.
 
@@ -210,8 +209,19 @@ ___
 - :green_heart: [Babies Take After Spouse Plus New Toddler Hair and Clothes](https://www.nexusmods.com/stardewvalley/mods/552): Your babies will look like your spouse, which is half-cute and nice and half-creepy as f. Decine which half you find stronger.
 
 ## 7. Gameplay
+
+<dl><dt>Convinience mods:</dt></dl>
+
 - :heart: [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731): This mods lets you harvest any plant using you scythe, which makes your farming much faster. I never had fun while I harvested bigger fields, with hundreds of cauliflower or pumpkin ripened at the same time, so I don't feel this mod unimmersive or cheaty.
   - :broken_heart: Note that [Harvest With Scythe](https://www.nexusmods.com/stardewvalley/mods/236) and [Scythe Harvesting v2.0](https://www.nexusmods.com/stardewvalley/mods/1106) are both broken.
+- :heart: [Automate](https://www.nexusmods.com/stardewvalley/mods/1063): Automating every process on the farm makes your life so easy that it can even considered a cheat, but I just like the fact that I don't have to stand next to my furnace to make that 10 copper bar so much i don't even care about that. The main idea behind  this mod is that machines can take out ingredients from the chests around them and place ready products in them, but it has a _lot_ of usages, so I recommend checking out it's page before installing. Also, be careful, because it is not fun if your misplaced Charcoal Kilt converts all of your wood into coal... (actually, the next mod helpes with this problem).
+- :green_heart: [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518): This mod is usually too much for what I call 'ideal game experience': accessing every chest from anywhere ruins the game, so if you want to use it that way, I change my rating to :broken_heart:. But if used well, this mod has a lot to offer: I already talked about a good use at the *Chest Label System* mod, which is broken, but van be replaced by this. It is also useful with *Automate*, as it has options to exclude a chest from autmating it's content by machines.
+- :heart: [Convenient Chests](https://www.nexusmods.com/stardewvalley/mods/2196): Perfect mod, which offers two must have features: quick store items in a nearby chest where it is already present with Q and using items from nearby chests for crafting (without the need to directly put it in your inventory). These features get rid of 99% of frustrating item searching and storage management related flipping out.
+- :heart: [Bigger Backpack](https://www.nexusmods.com/stardewvalley/mods/1845): Adds a forth row in you backpack which can be bought at Pierre's the same way as the other two.
+- :green_heart: [https://www.nexusmods.com/stardewvalley/mods/1191](https://www.nexusmods.com/stardewvalley/mods/1191): Adds cool purchusable features to the fridge (be sure to access it from the right side). These include multiple "chest pages" and a wrap-fridge you can access from anywhere. These sound a bit cheaty too, but you have to pay a decent price for them, and you can always choose to not buy them.
+- :heart: [No Fence Decay](https://www.nexusmods.com/stardewvalley/mods/1180): Fences do not get broken, which I think was a very annoying thing in the base game.
+- :green_heart: [Clean Cellar](https://www.nexusmods.com/stardewvalley/mods/2975): It gives a bit of an unbalanced advantage, as cellars will have more free space, but I mainly like this mod because the original, unclearable mess was annoying for me. But the vanilla one also has it's atmosphere, so decide if yo want to install this mod or not.
+
 
 ## 8. Other mods
 
