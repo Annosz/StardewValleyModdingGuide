@@ -100,7 +100,9 @@ Of course you can choose to only install one if you want to use any mods that re
 
 - :heart: [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726): Required by a lot of other mods, eg. *Climates of Ferngill* and *Mermaid Island*
 - :heart: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720): Required by a lot of other mods, eg. *Poppi's Kawaii Valley* and *Line Sprinklers*
-- :heart: [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231?tab=description): Required by a moderate ammount of other mods, eg. *Better Quarry Redux* and *Stardew Valley Expanded*
+- :heart: [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231): Required by a moderate ammount of other mods, eg. *Better Quarry Redux* and *Stardew Valley Expanded*
+- :heart: [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970): Required by a moderate ammount of other mods, eg. *Coffee Maker*
+  - :yellow_heart: [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991): This is technically an earlier variation of *Producer Framework Mod*. Most mods that use CFR has been updated to PFM, and the ones that not are most likely abandoned and broken. I suggest you to only install this mod if it's specifically required for one of your mods, otherwise feel free to skip it.
 - :heart: [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348): Required by a few other mods, eg. *Cooking Skill* and *Artisan Valley*
 - :heart: [Stardust Core](https://www.nexusmods.com/stardewvalley/mods/2341): Required by a few other mods, eg. *Happy Birthday*
 - :heart: [Stardew Hack](https://www.nexusmods.com/stardewvalley/mods/3213): Required by a few other mods, eg. *Bigger Backpack* and *Yet Another Harvest With Scythe Mod*
@@ -173,9 +175,10 @@ ___
 - :green_heart: [HP Bar](https://www.nexusmods.com/stardewvalley/mods/1736): Under the creatures, smaller, does not have numeric value (but configurable to show).
 
 ___
- - :heart: [Gift Taste Helper](https://www.nexusmods.com/stardewvalley/mods/229): A helpful mod thet shows the loved gift for each person in the calendar and in the Villagers menu (not inluding universally  loved gifts). If you feel like it's a cheat, you can modify the game's configuration to only show gifts that your character already knows if the person loves it, so you will have the opportunity to figure them out yourself.
-  - :heart: [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080): Really immersive addition to the game. With this, you can immediately see what kind of artistan goods you have in your inventory.
-  - :heart: ~~[Chest Label System](https://www.nexusmods.com/stardewvalley/mods/242)~~: A very good mod, but currently it's broken. If you want to replace it, I suggest using *[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)*. However that mod know *way more* than we need, so if you want to use it only for chest labeling, I suggest you use the following settings in the config file: Range: None, EnableShippingBin: False and DisableInLocations: ["UndergroundMine"]
+- :heart: [Gift Taste Helper](https://www.nexusmods.com/stardewvalley/mods/229): A helpful mod thet shows the loved gift for each person in the calendar and in the Villagers menu (not inluding universally  loved gifts). If you feel like it's a cheat, you can modify the game's configuration to only show gifts that your character already knows if the person loves it, so you will have the opportunity to figure them out yourself.
+- :heart: [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080): Really immersive addition to the game. With this, you can immediately see what kind of artistan goods you have in your inventory.
+- :heart: [Fruit Trees with Signs](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-116#post-3347131) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/99 "Fruit Trees with Signs") page): Not exactly an UI mod but gives a little sign to your fruit trees that show which type of fruit they produce. Most useful in sapling phase, as trees almost all loke the same that time.
+- :heart: ~~[Chest Label System](https://www.nexusmods.com/stardewvalley/mods/242)~~: A very good mod, but currently it's broken. If you want to replace it, I suggest using *[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)*. However that mod know *way more* than we need, so if you want to use it only for chest labeling, I suggest you use the following settings in the config file: Range: None, EnableShippingBin: False and DisableInLocations: ["UndergroundMine"]
 
 
 ## 4. Character creation
