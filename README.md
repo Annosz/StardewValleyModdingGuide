@@ -201,10 +201,12 @@ ___
 - :yellow_heart: [Kawaii Hats](https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-54#post-3302982) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/64 "Kawaii Hats") page): Replaces the existing hats in the game with new ones, which can be cute, but they are mostly unimmersive and cringe. And it's not an extension: if you install it, you won't be able to access the game's basic hats.
 
 ## 5. Pets
-
+- :heart: [Pet Interaction](https://www.nexusmods.com/stardewvalley/mods/4232): This mod gives you the ability to make your pet follow your through town (right click the pet for it) and play fetch with you. Who wouldn't want that power?
+- :heart: [Cat Gifts](https://www.nexusmods.com/stardewvalley/mods/2132): Despite the name of the mod only mentions cat, both kind of pets will bring gifts for you if you install it. The frequency and the type of the items they give you at the begining of the day depends on your friendship level with the animal, but don't expect anything game-breaking. It's more of something that brings a smile on your face than money in your pocket (if you sell it, you heartless machine!).
 - :green_heart: [Shiba Inu - Shepherd - Husky - Pet Dog Mod (CP)](https://www.nexusmods.com/stardewvalley/mods/570): With this mod you can change the type of your dog: the default is Shiba Inu (which has a little bit too big head for my taste), but you can choose from the three breeds mentioned in the title by editing the config.json file.
 - :heart: [Pet Water Bowl](https://www.nexusmods.com/stardewvalley/mods/2009): Your pet's bowl will fill with water when it's raining or snowing. A nice little immersive touch to the game.
 - :heart: [Improved Pet Area (Content Patcher Edition)](https://www.nexusmods.com/stardewvalley/mods/2026): This mod changes the look of the pet area next to your house to a more welcoming one. Your pet will have a separate food bowl and a blanket to lay on - it's really just a nice visual update.
+- :heart: [Pet Choice Perks](https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-65#post-3360916) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/3313 "Pet Choice Perks") page): Based upon your choice of pet you can get unique advantages as a passive effect and on petting the animal: cats scare off crows and give fishing bonus, dogs make animals happier and give foraging bonus.
 
 ## 6. Villagers
 
