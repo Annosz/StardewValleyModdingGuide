@@ -230,8 +230,24 @@ ___
 - :heart: [AutoGate](https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3-closed.142524/page-55#post-3324704) (For pictures check the old [Nexus](https://www.nexusmods.com/stardewvalley/mods/820 "AutoGate") page): Adds cool purchusable features to the fridge (be sure to access it from the right side). This mod opens and closes gates on the fences where you get near them. A huge time/annoyance saver for every farmer!
 - :green_heart: [No Soil Decay Redux](https://www.nexusmods.com/stardewvalley/mods/1084): I really disliked when I dug up all my garden on the last day of a season just to see that on the next day I have to start it again if I want to plant any crops because they magically disappeared overnight. However this mod has a lot of issues: somethimes fertilizers still get removed (just the soil remains) and on the beggining of a new season sprinklers also only water the "supposedly remaining" tilled ground. It's also annoying that if you dig an artifact spot anywhere in town, that hole also remains there. So only install this mod, if you will hate tilling more than cleaning up digspots after yourself.
 
+___
+
+<dl><dt>Making the game more detailed:</dt></dl>
+
+- :green_heart: [Minerva's Harder Community Center Bundles](https://www.nexusmods.com/stardewvalley/mods/3444): This mod is only recommended for those wo look for a real challenge. Minerva's Harder Community Center Bundles does exactly what it says - it makes restoring the Community Center *a lot* harder. Even the easy setting in this mod will test your best optimalization/management skills if you want to restore the building in a reasonable time. But at the same time doing so gives a real feeling of acomplishmenet: you can know you truly mastered living off the land.
+- :green_heart: [Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923): This mod introduces a lot new ways to improve friendship with villagers. For example, talking to someone will boost the relationship with those who witness it, or giving a gift also raises heart level with it's family members. There are some complains that this mod can make friendship too easy, but truth to be told, for me it was the least favourite part of the game when I had to run around the village and give everyone gifts to make them like me. This mod makes this process more reasonable, and if you find it too much of a cheat you can still modify the friendship increasement from the different actions in the config file.
+- :heart: [Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/522): Adds skill for cooking as the 6th available skill in the game, which is a welcomed addition. Cooked items will also have quality ratings from now, which mainly dpends on your skill.
+- :heart: [Dragon's Advancing Sprinklers (Content Patcher)](https://www.nexusmods.com/stardewvalley/mods/4356): A real must have: you can now create higher level springlers with recipies using the lover levels. From now on the starting basic sprinklers won't go to waste!
+  - :broken_heart: Note that [Advancing Sprinklers](https://www.nexusmods.com/stardewvalley/mods/2983) is broken.
+- :heart: [Coffee Maker](https://www.nexusmods.com/stardewvalley/mods/4396): An elegant way to make coffee. It's really nothing else than a new item, but it's so well done it's a pleasure to have in your kitchen.
+- :heart: [Winter Grass](https://www.nexusmods.com/stardewvalley/mods/1601): Makes grass grow in the winter too, so you don't have to rely on Marne for hay.
+- :heart: [Working Fireplaces](https://www.nexusmods.com/stardewvalley/mods/3654): A new mechanic that makes the game a little harder but more interesting. In winter and on other rainy days you have to make a fire in your fireplace to keep yourself, your family and your pets warm. It even integrates with _Climates of Ferngill_ and makes use of the temperature data from that mod.
+
 
 ## 8. Other mods
+
+- :heart: [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533): Well, yeah, sorry ConcernedApe, but starting the game is just long.
+- :heart: [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089): If you were ever bored when you milked your 12 cows and goats or breaking up your 20 geodes at Clint, then this is just the mod for you.
 
 # Finishing up
 
